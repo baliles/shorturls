@@ -5,10 +5,18 @@ body {
 	background-color: #333;
 }
 
-body {
+/*body {
 	color: #fff;
 	text-align: center;
-	background-image: url('SplitBG.jpg');
+	background-image: url('SplitBG.jpg')no-repeat center center fixed;
+}
+*/
+html { 
+  background: url('SplitBG.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 a,
