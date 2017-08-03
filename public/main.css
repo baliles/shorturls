@@ -55,6 +55,7 @@ footer {
 	header .brand {
 		float: left;
 		margin-bottom: 0;
+		vertical-align: middle;
 	}
 
 	header .nav { float: right; }
