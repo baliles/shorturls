@@ -35,7 +35,7 @@ footer {
 	padding: 2rem;
 }
 
-main { vertical-align: middle; }
+main { vertical-align: text-top; }
 
 footer {
 	vertical-align: bottom;
