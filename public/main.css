@@ -15,12 +15,6 @@ body {
     background-size: cover;
 }
 
-.herokulogo {
-	background-image: url('HerokuWhite.png');
-	height: 100%;
-	background-position: center;
-    background-repeat: no-repeat;
-}
 a,
 a:focus,
 a:hover {
