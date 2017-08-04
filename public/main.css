@@ -58,7 +58,11 @@ footer {
 		margin-left:25%;
 	}
 
-	header .nav { float: right; }
+	header .nav { 
+		float: right; 
+		margin-bottom: 0;
+		margin-right: 5%;
+		}
 
 	.header-wrapper,
 	.main-wrapper,
