@@ -60,9 +60,6 @@ footer {
 
 	header .nav { 
 		float: right; 
-		margin-bottom: 0;
-		margin-right: 5%;
-		max-width: 20px;
 		}
 
 	.header-wrapper,
