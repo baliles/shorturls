@@ -15,7 +15,7 @@ body {
     background-size: cover;
 }
 
-herokulogo {
+.herokulogo {
 	background-image: url('HerokuWhite.png');
 	height: 100%;
 	background-position: center;
