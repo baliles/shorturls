@@ -4,11 +4,5 @@
   "website": "www.heroku.com",
   "repository": "https://github.com/baliles/shorturls",
   "logo": "https://avatars0.githubusercontent.com/u/20133863?v=4&s=200",
-  "keywords": ["heroku", "url shortener"],
-  "env": {
-    "DATABASE_URL": {
-      "description": "Postgres Database to hold Shortened URLs",
-      "value": "postgres://senbjiyhlyfbrq:3f4d03141fbf35bd7f683ce3b68d6717090a65ca2ebbd838403549a6fe272ace@ec2-54-235-177-45.compute-1.amazonaws.com:5432/d653bhina20026"
-    }
-  }
+  "keywords": ["heroku", "url shortener"]
 }
