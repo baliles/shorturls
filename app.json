@@ -5,14 +5,6 @@
   "repository": "https://github.com/baliles/shorturls",
   "logo": "https://avatars0.githubusercontent.com/u/20133863?v=4&s=200",
   "keywords": ["heroku", "url shortener"],
-  "buildpacks": [
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-    }
-  ],
-  "addons": [
-    "heroku-postgresql:hobby-dev"
-  ],
   "env": {
     "DATABASE_URL": {
       "description": "Postgres Database to hold Shortened URLs",
