@@ -2,7 +2,7 @@
   "name": "Heroku URL Shortener Demo App",
   "description": "Demonstrates the generation of Shortened URLs based on user input, saving results to Heroku Postgres",
   "website": "www.heroku.com",
-  "repository": "https://github.com/baliles/shorturls",
   "logo": "https://avatars0.githubusercontent.com/u/20133863?v=4&s=200",
-  "keywords": ["heroku", "url shortener"]
+  "keywords": ["heroku", "url shortener"],
+  "repository": "https://github.com/baliles/shorturls",
 }
