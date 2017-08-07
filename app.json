@@ -7,8 +7,9 @@
   "repository": "https://github.com/baliles/shorturls",
   "env": {
     "DATABASE_URL": {
+      "required": true,
       "description": "Already points to a demo Postgres DB to store URLs for you",
       "value": "postgres://senbjiyhlyfbrq:3f4d03141fbf35bd7f683ce3b68d6717090a65ca2ebbd838403549a6fe272ace@ec2-54-235-177-45.compute-1.amazonaws.com:5432/d653bhina20026"
-    }
-  },
+      }
+    },
 }
